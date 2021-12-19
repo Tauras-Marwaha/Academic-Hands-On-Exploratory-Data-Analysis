@@ -7,7 +7,7 @@ Course: Intelligent Data Analysis (CS 6052) taught by Dr. Gowtham Atluri
 
 Goal: Learn, implement, evaluate and reason out **summary statistics results, interpret geometric and probailistic Views, understand covariance matrix, dimensionality reduction - feature selection, principal component analysis on the Iris Data Set, singular value decomposition and linear discriminant analysis**
 
-Data: Multiple datasets with two classes.
+Data: Multiple datasets.
 
 Approach: We have been provided with the datasets and interesting questions that need to be answered by understanding the fundamentals of different algorithms. A sample practice module was also provided by the professor to guide us with some sample codes and help us getting started.
 
